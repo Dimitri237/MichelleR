@@ -246,7 +246,7 @@ position:relative;
 
 background:
 
-url("https://marche-frais.com/wp-content/uploads/2022/11/shutterstock_1688252332-1.jpg")
+url("https://images.lifestyleasia.com/wp-content/uploads/sites/2/2024/06/03123318/buffet-hong-kong-july2024-kerryhotel-1600x900.jpg")
 
 center/cover no-repeat;
 
