@@ -3,12 +3,12 @@ import { getFirestore, enableIndexedDbPersistence } from "firebase/firestore"
 import { getAuth } from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBUQ8r4_bWOc-HJZIZzFFv69b5GGKXID6o",
-  authDomain: "africamart-87ff2.firebaseapp.com",
-  projectId: "africamart-87ff2",
-  storageBucket: "africamart-87ff2.firebasestorage.app",
-  messagingSenderId: "239296547209",
-  appId: "1:239296547209:web:ae62ba1493536ab19b3958"
+  apiKey: "AIzaSyBtOu7bDIASzL55pJWqYpf77ofnJo6ft7A",
+  authDomain: "michellesrestaurant.firebaseapp.com",
+  projectId: "michellesrestaurant",
+  storageBucket: "michellesrestaurant.firebasestorage.app",
+  messagingSenderId: "1067086776036",
+  appId: "1:1067086776036:web:f9ba5365f81209a6eecef1"
 };
 const app = initializeApp(firebaseConfig)
 export const db = getFirestore(app)
