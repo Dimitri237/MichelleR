@@ -4,7 +4,7 @@
 
             <!-- Logo -->
             <RouterLink to="/" class="brand" @click="closeMenu">
-                <img src="../assets/images/logos/logor.jpg" alt="Michelle's Restaurant" class="logo" :class="{ small: scrolled }" />
+                <img src="../assets/images/logos/logor.jpg" alt="Michellesrestaurant" class="logo" :class="{ small: scrolled }" />
             </RouterLink>
 
             <!-- Navigation -->

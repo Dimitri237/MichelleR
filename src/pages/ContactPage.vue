@@ -30,7 +30,7 @@ We are happy to welcome you. Contact Michelle's Restaurant today.
 
 <img
 src="../assets/images/logos/infoR.jpg"
-alt="Michelle's Restaurant"
+alt="Michellesrestaurant"
 class="logo"
 />
 

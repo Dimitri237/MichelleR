@@ -1,6 +1,6 @@
 {
-  "name": "Michelle's Restaurant",
-  "short_name": "Michelle's Restaurant",
+  "name": "michellesrestaurant",
+  "short_name": "michellsrestaurant",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

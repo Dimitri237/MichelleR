@@ -13,7 +13,7 @@
 
             <div class="title reveal revealOff">
 
-                <img src="../assets/images/logos/logor.jpg" alt="Michelle's Restaurant" class="logo" />
+                <img src="../assets/images/logos/logor.jpg" alt="Michellesrestaurant" class="logo" />
 
                 <h1>
                     Michelle's Restaurant

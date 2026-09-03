@@ -33,7 +33,7 @@ text:
 
 
 restaurant:{
-title:"Michelle's Restaurant",
+title:"Michellesrestaurant",
 text:
 "A unique culinary experience combining African, European and international flavors."
 },
